@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/riyuc/sample-go-project/services"
+	"github.com/riyuc/sample-go-project.git/services"
 )
 
 func main() {

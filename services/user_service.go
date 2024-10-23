@@ -3,8 +3,8 @@ package services
 import (
 	"fmt"
 
-	"github.com/riyuc/sample-go-project/models"
-	"github.com/riyuc/sample-go-project/utils"
+	"github.com/riyuc/sample-go-project.git/models"
+	"github.com/riyuc/sample-go-project.git/utils"
 )
 
 func Run() {
